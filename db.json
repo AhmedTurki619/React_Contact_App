@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Test Test",
+      "email": "rsqbohmid@gmail.com",
+      "phone": "+21612345678",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Ahmed Turki",
+      "email": "jane@example.com",
+      "phone": "+21621490907",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "password": "123456"
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "phone": "+21622233344",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "password": "123456"
+    }
+  ]
+}
